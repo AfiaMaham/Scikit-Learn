@@ -63,6 +63,7 @@ This project aims to predict daily sales for Rossmann drug stores based on histo
 
 - Python  
 - Scikit-learn  
-- Pandas, NumPy  
+- Pandas
+- Numpy  
 - Matplotlib, Seaborn, Plotly
 - Jupyter Notebooks
